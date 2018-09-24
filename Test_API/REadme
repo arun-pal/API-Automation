@@ -1,0 +1,11 @@
+
+
+How to run API from Command Prompt : (All API)
+cd /home/arun/eclipse1/workspace/Kwanzoo_API
+mvn -Dtest=* test
+
+
+
+How to run API from Command Prompt : (One API)
+cd /home/arun/eclipse1/workspace/Kwanzoo_API
+mvn -Dtest=ABM_Dashboard_Jenkins.Ads_Served test
