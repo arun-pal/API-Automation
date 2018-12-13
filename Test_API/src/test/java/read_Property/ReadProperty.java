@@ -11,7 +11,7 @@ public class ReadProperty {
 	private static Properties properties;
 
 	static{
-		 File file = new File("/home/arun/eclipse1/workspace/Test_API/resources/API.properties");
+		 File file = new File("/home/eclipse1/workspace/Test_API/resources/API.properties");
 		                       		  
 			FileInputStream fileInput = null;
 			try 
